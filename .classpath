@@ -5,6 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java-core-fundamentals"/>
+	<classpathentry kind="src" path="java-collections"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
