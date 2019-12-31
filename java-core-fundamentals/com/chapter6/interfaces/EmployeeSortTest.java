@@ -1,9 +1,9 @@
-package interfaces;
+package com.chapter6.interfaces;
 
 import java.util.*;
 
 /**
- * This program demonstrates the use of the Comparable Interface
+ * This program demonstrates the use of Comparable Interface
  * @author 	Hugo Vargas
  * @version	2019-12-27
  */

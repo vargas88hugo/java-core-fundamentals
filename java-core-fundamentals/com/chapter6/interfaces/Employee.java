@@ -1,4 +1,4 @@
-package interfaces;
+package com.chapter6.interfaces;
 
 public class Employee implements Comparable<Employee>
 {

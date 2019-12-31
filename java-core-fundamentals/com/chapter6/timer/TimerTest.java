@@ -1,4 +1,4 @@
-package timer;
+package com.chapter6.timer;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -7,7 +7,8 @@ import javax.swing.*;
 import javax.swing.Timer; // to resolve conflict with java.util.Timer
 
 /**
- * This program implements a timer and resolves a  method conflict with Timer
+ * This program implements a timer and resolves a  package method conflict 
+ * with Timer
  * @author Hugo Vargas
  * @version 1.0 2019-12-27 
  */
